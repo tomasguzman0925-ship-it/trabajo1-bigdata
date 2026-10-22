@@ -2,7 +2,10 @@
 
 Curso SI7006/SI6003 Almacenamiento y Procesamiento de Grandes Datos, Universidad EAFIT, 2026-2.
 
-Integrantes: _completar_
+Integrantes:
+
+- Tomás Guzmán Tapias (tguzmant@eafit.edu.co)
+- _completar_
 
 Video (YouTube, no listado): _completar_
 
