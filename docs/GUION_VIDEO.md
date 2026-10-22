@@ -9,7 +9,7 @@ Reglas que anulan el trabajo si no se cumplen:
 Consejos:
 - Ejecuten las consultas largas **antes** de grabar; en el video muestren los resultados (pestaña *Recent queries* de Athena) y vuelvan a correr solo las rápidas.
 - Hagan zoom en el navegador (**Ctrl +**) para que las tablas se lean bien. La legibilidad vale 5 puntos.
-- Integrantes: **P1**, **P2**, **P3** (si son dos, P3 lo hace P1).
+- Integrantes: **P1** Tomás Guzmán Tapias · **P2** Cristian Miguel Gómez Salazar · **P3** Alejandro Jimenez Lopera (pueden intercambiar los bloques, pero los tres deben hablar con la cámara visible).
 
 ---
 
